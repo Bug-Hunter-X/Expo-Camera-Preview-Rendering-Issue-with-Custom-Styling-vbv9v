@@ -1,0 +1,1 @@
+This bug occurs when using the Expo SDK's `Camera` component with custom styling.  The issue is that the camera preview might not render correctly, appearing black or distorted, when certain styles are applied. This is particularly noticeable when using flexbox layouts or specific aspect ratios.
